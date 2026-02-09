@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot (206)" src="https://github.com/user-attachments/assets/2c26442b-7a63-4f83-a7ed-252a2388a83a" /># Beginner Badge Submission - yourname
+# Beginner Badge Submission - yourname
 
 ## Task 1: Hello World workflow running ✅
 - Screenshot: <img width="1920" height="1080" alt="Screenshot (202)" src="https://github.com/user-attachments/assets/451c475f-0522-4de0-8254-930a3c0f6f49" />
